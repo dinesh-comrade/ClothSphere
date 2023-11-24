@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ClothSphere/static/css/main.e1a09d0c.css",
+    "main.js": "/ClothSphere/static/js/main.3fafdd48.js",
+    "index.html": "/ClothSphere/index.html",
+    "main.e1a09d0c.css.map": "/ClothSphere/static/css/main.e1a09d0c.css.map",
+    "main.3fafdd48.js.map": "/ClothSphere/static/js/main.3fafdd48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1a09d0c.css",
+    "static/js/main.3fafdd48.js"
+  ]
+}
