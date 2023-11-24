@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ClothSphere/static/css/main.e1a09d0c.css",
-    "main.js": "/ClothSphere/static/js/main.3fafdd48.js",
+    "main.js": "/ClothSphere/static/js/main.52d665bf.js",
     "index.html": "/ClothSphere/index.html",
     "main.e1a09d0c.css.map": "/ClothSphere/static/css/main.e1a09d0c.css.map",
-    "main.3fafdd48.js.map": "/ClothSphere/static/js/main.3fafdd48.js.map"
+    "main.52d665bf.js.map": "/ClothSphere/static/js/main.52d665bf.js.map"
   },
   "entrypoints": [
     "static/css/main.e1a09d0c.css",
-    "static/js/main.3fafdd48.js"
+    "static/js/main.52d665bf.js"
   ]
 }
